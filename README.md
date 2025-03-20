@@ -7,7 +7,7 @@
 <ul style="list-style: none; text-align: center;">
   <li>:seedling: Always learning new technologies (currently focused on Dart & Flutter)</li>
   <li>:octocat: Open to collaborate on projects using <strong>JavaScript, Dart, Flutter, Web Development</strong></li>
-  <li>:south_africa: Based in Aggeneys, South Africa</li>
+  <li>:south_africa: South Africa</li>
   <li>:rocket: Seeking new opportunities and collaborations</li>
   <li>:metal: Let's Rock n' Code!</li>
 </ul>
