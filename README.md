@@ -41,9 +41,6 @@
     <a href="https://www.dart.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Dart-white.svg?style=for-the-badge&logo=dart&logoColor=0175C2" alt="dart"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/>
-    </a>
     <a href="https://flutter.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Flutter-white.svg?style=for-the-badge&logo=flutter&logoColor=02569B" alt="flutter"/>
     </a>
