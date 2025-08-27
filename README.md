@@ -57,8 +57,6 @@
 <h2>📫 Connect with Me</h2>
 <p>
   <a href="https://github.com/void-2smooth"><img src="https://img.shields.io/badge/-VOID-black?logo=github&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/james-coetzee-03b88b328/"><img src="https://img.shields.io/badge/-James_Coetzee-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/JAMES47557985"><img src="https://img.shields.io/badge/-James_Coetzee-blue?logo=twitter&style=for-the-badge" /></a>
   <a href="https://www.youtube.com/@Void2.smooth"><img src="https://img.shields.io/badge/-Void2.smooth-red?logo=youtube&style=for-the-badge" /></a>
 </p>
 
