@@ -56,13 +56,22 @@
 
 <h2>📫 Connect with Me</h2>
 <p>
-  <a href="https://github.com/void-2smooth"><img src="https://img.shields.io/badge/-VOID-black?logo=github&style=for-the-badge" /></a>
-  <a href="https://www.youtube.com/@Void2.smooth"><img src="https://img.shields.io/badge/-Void2.smooth-red?logo=youtube&style=for-the-badge" /></a>
+  <a href="https://github.com/void-2smooth">
+    <img src="https://img.shields.io/badge/-VOID-black?logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://www.youtube.com/@Void2.smooth">
+    <img src="https://img.shields.io/badge/-Void2.smooth-red?logo=youtube&style=for-the-badge" />
+  </a>
+  <a href="https://the-real-voiddev.itch.io/">
+    <img src="https://img.shields.io/badge/-Itch.io-purple?logo=itch.io&style=for-the-badge" />
+  </a>
 </p>
-
 <h2>💥 Fun Section</h2>
 <p>
   <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="200" />
+  <a href="https://the-real-voiddev.itch.io/">
+  
+</a>
   <br/>
   <em>Keep learning. Keep coding. Keep rocking!</em>
 </p>
