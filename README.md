@@ -6,9 +6,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-    <img src="./assets/hero-dark.svg" alt="VOID — James, builder, operator, and editor from South Africa" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/hero-light.svg" />
+    <img src="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/hero-dark.svg" alt="VOID — James, builder, operator, and editor from South Africa" width="100%" />
   </picture>
 </div>
 
@@ -30,9 +30,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-    <img src="./assets/divider-dark.svg" alt="" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/divider-light.svg" />
+    <img src="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/divider-dark.svg" alt="" width="100%" />
   </picture>
 </div>
 
@@ -40,9 +40,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/now-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/now-light.svg" />
-    <img src="./assets/now-dark.svg" alt="Currently shipping VertexWeb, building Ulta Guide, and running a homelab while editing video" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/now-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/now-light.svg" />
+    <img src="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/now-dark.svg" alt="Currently shipping VertexWeb, building Ulta Guide, and running a homelab while editing video" width="100%" />
   </picture>
 </div>
 
@@ -51,20 +51,20 @@
 <div align="center">
   <a href="https://vertexweb.co.za/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-vertex-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/card-vertex-light.svg" />
-      <img src="./assets/card-vertex-dark.svg" alt="VertexWeb — sites, hosting, and ops for South African businesses" width="280" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-vertex-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-vertex-light.svg" />
+      <img src="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-vertex-dark.svg" alt="VertexWeb — sites, hosting, and ops for South African businesses" width="280" />
     </picture>
   </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-ulta-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/card-ulta-light.svg" />
-    <img src="./assets/card-ulta-dark.svg" alt="Ulta Guide — a Windows utility built to be useful" width="280" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-ulta-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-ulta-light.svg" />
+    <img src="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-ulta-dark.svg" alt="Ulta Guide — a Windows utility built to be useful" width="280" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-lab-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/card-lab-light.svg" />
-    <img src="./assets/card-lab-dark.svg" alt="Homelab — Ubuntu Server, Docker, and Portainer" width="280" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-lab-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-lab-light.svg" />
+    <img src="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-lab-dark.svg" alt="Homelab — Ubuntu Server, Docker, and Portainer" width="280" />
   </picture>
 </div>
 
@@ -119,8 +119,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
-    <img src="./assets/footer-dark.svg" alt="VOID — build, host, cut, ship" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/footer-light.svg" />
+    <img src="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/footer-dark.svg" alt="VOID — build, host, cut, ship" width="100%" />
   </picture>
 </div>
