@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Currently building">
+  <rect width="1200" height="140" rx="16" fill="#0C1118" stroke="#1B2430"/>
+  <rect x="80" y="0" width="280" height="2" fill="#3EC8FF" opacity="0.85"/>
+  
+  <g transform="translate(36 36)">
+    <text fill="#3EC8FF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3">01</text>
+    <text y="32" fill="#F2F5F8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.4">VERTEXWEB</text>
+    <text y="60" fill="#8B98A8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13">Shipping high-converting sites for SA businesses.</text>
+  </g>
+  <g transform="translate(424 36)">
+    <text fill="#3EC8FF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3">02</text>
+    <text y="32" fill="#F2F5F8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.4">ULTA GUIDE</text>
+    <text y="60" fill="#8B98A8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13">Building a Windows utility that earns its keep.</text>
+  </g>
+  <g transform="translate(812 36)">
+    <text fill="#3EC8FF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3">03</text>
+    <text y="32" fill="#F2F5F8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.4">MOTION + LAB</text>
+    <text y="60" fill="#8B98A8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13">Cutting video. Running Docker on Ubuntu Server.</text>
+  </g>
+</svg>
