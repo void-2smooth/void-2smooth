@@ -22,7 +22,6 @@
   <a href="https://github.com/void-2smooth"><img src="https://img.shields.io/badge/GitHub-07090E?style=flat-square&logo=github&logoColor=3EC8FF" alt="GitHub" /></a>
   <a href="https://www.youtube.com/@Void2.smooth"><img src="https://img.shields.io/badge/YouTube-07090E?style=flat-square&logo=youtube&logoColor=3EC8FF" alt="YouTube" /></a>
   <a href="https://the-real-voiddev.itch.io/"><img src="https://img.shields.io/badge/itch.io-07090E?style=flat-square&logo=itchdotio&logoColor=3EC8FF" alt="itch.io" /></a>
-  <a href="mailto:contact@vertexweb.co.za"><img src="https://img.shields.io/badge/Email-07090E?style=flat-square&logo=gmail&logoColor=3EC8FF" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Discord-void044323-07090E?style=flat-square&logo=discord&logoColor=3EC8FF" alt="Discord void044323" />
 </p>
 
@@ -47,13 +46,6 @@
 ## Work
 
 <div align="center">
-  <a href="https://vertexweb.co.za/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-vertex-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-vertex-light.svg" />
-      <img src="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-vertex-dark.svg" alt="VertexWeb — sites, hosting, and ops for South African businesses" width="280" />
-    </picture>
-  </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-ulta-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/card-ulta-light.svg" />
