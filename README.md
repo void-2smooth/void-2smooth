@@ -33,16 +33,6 @@
   </picture>
 </div>
 
-## Now
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/now-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/now-light.svg" />
-    <img src="https://raw.githubusercontent.com/void-2smooth/void-2smooth/main/assets/now-dark.svg" alt="Currently shipping VertexWeb, building Ulta Guide, and running a homelab while editing video" width="100%" />
-  </picture>
-</div>
-
 ## Work
 
 <div align="center">
