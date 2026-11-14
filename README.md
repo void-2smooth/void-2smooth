@@ -19,7 +19,6 @@
 </p>
 
 <p align="center">
-  <a href="https://vertexweb.co.za/"><img src="https://img.shields.io/badge/VertexWeb-07090E?style=flat-square" alt="VertexWeb" /></a>
   <a href="https://github.com/void-2smooth"><img src="https://img.shields.io/badge/GitHub-07090E?style=flat-square&logo=github&logoColor=3EC8FF" alt="GitHub" /></a>
   <a href="https://www.youtube.com/@Void2.smooth"><img src="https://img.shields.io/badge/YouTube-07090E?style=flat-square&logo=youtube&logoColor=3EC8FF" alt="YouTube" /></a>
   <a href="https://the-real-voiddev.itch.io/"><img src="https://img.shields.io/badge/itch.io-07090E?style=flat-square&logo=itchdotio&logoColor=3EC8FF" alt="itch.io" /></a>
