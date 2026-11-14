@@ -15,8 +15,7 @@
 <br />
 
 <p align="center">
-  I'm <strong>James</strong>. I run <a href="https://vertexweb.co.za/">VertexWeb</a> — websites, hosting, and ops for South African businesses.<br />
-  I also build Windows tools, ship games, run a homelab, and edit video.
+  I'm <strong>James</strong>.I build Windows tools, ship games, run a homelab, and edit video.
 </p>
 
 <p align="center">
